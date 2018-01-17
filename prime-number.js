@@ -4,9 +4,9 @@ for (i=2; i <= 1000 ;i++) {
     if (i % g == 0) {
       isPrime = false
     }
-    }
+  }
     if (isPrime == true) {
       document.write(i)
       document.write("<br/>")
     }
-    }
+}
